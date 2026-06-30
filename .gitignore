@@ -1,0 +1,25 @@
+# Keep this repository focused on public agent instructions and README docs.
+*
+
+!.gitignore
+!AGENTS.md
+!CLAUDE.md
+!LICENSE
+!README.md
+!README.ko.md
+
+!.agents/
+!.agents/**
+!.claude
+!.claude/
+!.claude/**
+!.june-2026-vibe-contest/
+!.june-2026-vibe-contest/**
+!guide/
+!guide/**
+
+/app
+
+.DS_Store
+**/.DS_Store
+*.log
